@@ -1,10 +1,8 @@
-
-
 <!--
 **ImKunYoung/ImKunYoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h3 align="center"> 🐻 Me 🐻 </h3>
+<h3 align="center"> 🐒 Me 🐒 </h3>
 <p align="center">
   <a href="https://velog.io/@gun_123"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@gun_123"/></a>&nbsp
   <a href="mailto:ur2kunyoung2@outlook.com"><img src="https://img.shields.io/badge/Microsoft Outlook-0078D4?style=flat-square&logo=Microsoft Outlook&logoColor=white&link=ur2kunyoung2@outlook.com"/></a>
