@@ -9,6 +9,18 @@
 </p>
 <br>
 
+
+<div align="center" style="text-align:center">
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gun_123)](https://velog.io/@gun_123)
+
+</div>
+
+
+<br>
+
+<h3 align="center">🌴 Github Stats 🌴</h3>
+
 <p align="center">
   <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImKunYoung&layout=compact&langs_count=10"/></a>&nbsp
   <a href=""><img src="https://github-readme-stats.vercel.app/api?username=ImKunYoung&count_private=true&show_icons=true"/></a>
