@@ -13,9 +13,10 @@
 
 <div align="center" style="text-align:center">
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gun_123&)](https://velog.io/@gun_123)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gun_123&tag=아키텍처)](https://velog.io/@gun_123)
   <br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gun_123&tag=마이크로서비스)](https://velog.io/@gun_123)
+
+[![Newest Post Card](https://tistory-readme-stats.vercel.app/api?name=imkunyoung&theme=santorini)](https://imkunyoung.tistory.com/) 
 
 </div>
 
