@@ -16,7 +16,7 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gun_123&tag=아키텍처)](https://velog.io/@gun_123)
   <br>
 
-[![Newest Post Card](https://tistory-readme-stats.vercel.app/api?name=imkunyoung&theme=santorini)](https://imkunyoung.tistory.com/) 
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=imkunyoung&theme=santorini)](https://imkunyoung.tistory.com/) 
 
 </div>
 
