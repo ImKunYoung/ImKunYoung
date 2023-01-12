@@ -6,6 +6,7 @@
 <p align="center">
   <a href="https://velog.io/@gun_123"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@gun_123"/></a>&nbsp
   <a href="mailto:ur2kunyoung2@outlook.com"><img src="https://img.shields.io/badge/Microsoft Outlook-0078D4?style=flat-square&logo=Microsoft Outlook&logoColor=white&link=ur2kunyoung2@outlook.com"/></a>
+  <a href="https://imkunyoung.tistory.com"><img src="https://img.shields.io/badge/Tistory-003366?style=flat-square&logo=Tistory&logoColor=white&link=https://imkunyoung.tistory.com"/></a>
 </p>
 <br>
 
