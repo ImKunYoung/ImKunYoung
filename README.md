@@ -27,8 +27,8 @@
 <h3 align="center">🌴 Github Stats 🌴</h3>
 
 <p align="center">
-  <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImKunYoung&layout=compact&langs_count=10"/></a>&nbsp
-  <a href=""><img src="https://github-readme-stats.vercel.app/api?username=ImKunYoung&count_private=true&show_icons=true"/></a>
+  <a href=""><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ImKunYoung&layout=compact&langs_count=10"/></a>&nbsp
+  <a href=""><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ImKunYoung&count_private=true&show_icons=true"/></a>
 </p>
 <br>
 
