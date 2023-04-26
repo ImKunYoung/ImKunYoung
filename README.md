@@ -20,8 +20,7 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gun_123)](https://velog-readme-stats.vercel.app/api/redirect?name=gun_123)
   <br>
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=imkunyoung&theme=santorini)](https://imkunyoung.tistory.com/)
-  <br>
+
 
 <br>
 
