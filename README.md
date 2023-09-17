@@ -1,3 +1,1 @@
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gun_123)](https://velog-readme-stats.vercel.app/api/redirect?name=gun_123)
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=gun_123)](https://velog.io/@gun_123) 
+![new-york-city-edted](https://github.com/ImKunYoung/ImKunYoung/assets/46955032/08a2fa5a-dfc4-4159-8667-1fb26ef36969)
