@@ -1,1 +1,1 @@
-![new-york-city-edted](https://github.com/ImKunYoung/ImKunYoung/assets/46955032/08a2fa5a-dfc4-4159-8667-1fb26ef36969)
+![new-york-city-edted](https://github.com/ImKunYoung/ImKunYoung/assets/46955032/14779003-8189-41a7-835d-421d6a697422)
